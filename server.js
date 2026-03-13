@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 10000;
 
 // ================= CONFIG =================
 
-const APP_VERSION = "1.0";
+const APP_VERSION = "2.0";
 
 // GitHub RAW Direct APK Link
 const APK_LINK = "https://raw.githubusercontent.com/mhshohug/upgrade/1249d50b11b98d68eddd9366f657fb4e45620e76/Sukhy%20Dyeing%20ERP%201.0_1.apk";
